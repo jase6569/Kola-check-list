@@ -1,1 +1,0 @@
-const checklistData = {}; function showDay(day){document.getElementById('checklist').innerHTML='Loading...';}
